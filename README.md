@@ -32,3 +32,7 @@ The first time to access the Admin you'll need to create an user.
 ## Dump data
 
 This project uses `Postgres` and if you want all the data previously, unzip the [data.zip](data.zip), copy the `uploads` folder to [public/uploads](public/uploads) and restore the data from the `local.dump` file inside the zip.
+
+## Upload Images
+
+This is using local provider in development mode and DropBox provider in production
