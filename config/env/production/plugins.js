@@ -11,8 +11,6 @@ module.exports = ({ env }) => ({
     }, */
     provider: "dropbox",
     providerOptions: {
-      //accessKeyId: env("DROPBOX_ACCESS_KEY_ID"),
-      //secretAccessKey: env("DROPBOX_ACCESS_SECRET"),
       accessToken: env("DROPBOX_ACCESS_TOKEN")
     }
   }
