@@ -35,4 +35,8 @@ This project uses `Postgres` and if you want all the data previously, unzip the 
 
 ## Upload Images
 
-This is using local provider in development mode and DropBox provider in production
+This is using local provider in development mode and DropBox provider in production##
+
+## Change Log
+
+- 10/26/2020: Added Procfile in order to run in heroku ads development mode 
